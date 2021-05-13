@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication1.cpp
+C:\Users\gggg\Desktop\Samostalni projekat\ConsoleApplication1\ConsoleApplication1.cpp(61,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\gggg\Desktop\Samostalni projekat\ConsoleApplication1\ConsoleApplication1.cpp(1299,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\gggg\Desktop\Samostalni projekat\ConsoleApplication1\ConsoleApplication1.cpp(1300,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\gggg\Desktop\Samostalni projekat\ConsoleApplication1\ConsoleApplication1.cpp(1553,1): warning C4305: '=': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> C:\Users\gggg\Desktop\Samostalni projekat\Debug\SamostalniProjekat.exe
